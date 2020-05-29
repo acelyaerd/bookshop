@@ -6,6 +6,7 @@ Session management is Node.js and Express with express-session.
 Sanitsation and validation in Node.js and Express with express-validator and express-sanitiser. 
 I have created an API using an OpenWeatherMap API, and accessing with curl.
 
+
 My web application includes the following pages:
 - Home page 
 - Register page
@@ -17,11 +18,13 @@ My web application includes the following pages:
 - api page
 - Logout link
 
+
 In addition to the above:
 - Links to all pages are included on the home page.
 - Logged in users are only authorised to see list, addbook and search pages.
 - I have included form validation for your form-data.
 - Informative content (welcome message, nice titles for each page, etc) and also the look of the UI (colors, font sizes, etc).
+
 
 List of requirements implemented:
 1. Hyper link reference in all pages - IMPLEMENTED
